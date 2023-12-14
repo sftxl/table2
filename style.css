@@ -1,0 +1,15 @@
+table tr, td{
+    border: 1px solid black;
+    width:150px;
+    
+}
+thead{
+    text-align: center;
+}
+tbody{
+    height:50px;
+    text-align: start;
+}
+.num{
+    text-align: center;
+}
